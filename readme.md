@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://img.shields.io/github/repo-size/ViratiAkiraNandhanReddy/silk-background-three.js" alt="Repo Size" />
-    <img src="https://api.visitorbadge.io/api/visitors?path=ViratiAkiraNandhanReddy/silk-background-three.js&label=Repository%20Visits&style=flat" alt="Visits" />
-    <img src="https://img.shields.io/github/issues/ViratiAkiraNandhanReddy/silk-background-three.js" alt="Issues" />
-    <img src="https://img.shields.io/github/stars/ViratiAkiraNandhanReddy/silk-background-three.js?style=social" alt="Stars" />
-  <h1><a href="https://viratiakiranandhanreddy.github.io/silk-background-three.js/">silk-background-three.js</a></h1>
+    <img src="https://img.shields.io/github/repo-size/ViratiAkiraNandhanReddy/animated-silk-background-three-js" alt="Repo Size" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=ViratiAkiraNandhanReddy/animated-silk-background-three-js&label=Repository%20Visits&style=flat" alt="Visits" />
+    <img src="https://img.shields.io/github/issues/ViratiAkiraNandhanReddy/animated-silk-background-three-js" alt="Issues" />
+    <img src="https://img.shields.io/github/stars/ViratiAkiraNandhanReddy/animated-silk-background-three-js?style=social" alt="Stars" />
+  <h1><a href="https://viratiakiranandhanreddy.github.io/animated-silk-background-three-js/">animated-silk-background-three-js</a></h1>
   <p><em>A beautiful animated silk texture background effect created with Three.js and custom GLSL shaders.</em></p>
 </div>
 
