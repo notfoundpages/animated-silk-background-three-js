@@ -9,8 +9,6 @@
 
 This project creates a smooth, flowing silk-like animation that fills the entire viewport. The effect is generated entirely through shader-based rendering, providing excellent performance even on lower-end devices.
 
----
-
 ## Features
 
 - **Shader-Based Animation**: Custom vertex and fragment shaders create a procedural silk texture effect
@@ -24,13 +22,9 @@ This project creates a smooth, flowing silk-like animation that fills the entire
 - **Responsive Design**: Automatically adjusts to window resizing
 - **High Performance**: Optimized rendering with pixel ratio handling
 
----
-
 ## Usage
 
 Simply open `index.html` in a modern web browser. The animation will begin automatically.
-
----
 
 ### Customization
 
@@ -46,8 +40,6 @@ const uniforms = {
   uColor: { value: new THREE.Color('#8604f8') } // Change color
 };
 ```
-
----
 
 ## Technical Details
 
@@ -67,14 +59,10 @@ const uniforms = {
 - Creates a simple plane geometry that covers the entire viewport
 - Implements WebGL rendering with antialiasing enabled
 
----
-
 ## Requirements
 
 - Modern web browser with WebGL support
 - Internet connection (loads Three.js from CDN)
-
----
 
 ## Browser Support
 
@@ -82,8 +70,6 @@ Works on all modern browsers that support:
 - WebGL
 - ES6 modules
 - Three.js r160
-
----
 
 ## **🤝 Contributing**
 
@@ -96,12 +82,8 @@ To contribute:
 3. Add your changes
 4. Open a PR
 
----
-
 ## ⭐ Support
 <kbd>If you like this project, consider giving it a star ⭐ on GitHub — it helps a lot.</kbd>
-
----
 
 ## 🌐 Social & Links
 
@@ -114,21 +96,15 @@ To contribute:
 [![Website](https://img.shields.io/badge/Website-0077b6?style=for-the-badge&logoColor=white)](https://viratiakiranandhanreddy.github.io/CaesarCipher.extended/)
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.viratiakiranandhanreddy+github@gmail.com)
 
----
-
 ## 📝 License
 
 <p align="center"><kbd>&copy; 2025 <a href="https://github.com/ViratiAkiraNandhanReddy">ViratiAkiraNandhanReddy</a>. This project is licensed under the <i>MIT License</i>.</kbd></p>
-
----
 
 ## 👤 Author
 
 ### Developed by [ViratiAkiraNandhanReddy](https://github.com/ViratiAkiraNandhanReddy)
 
 > 💤 - PASSIVE MAINTENANCE : Mean the project is no longer actively developed ***( NO New Features And Regular Updates )***, but the maintainer will respond only when an issue or PR is raised. Feel free to fork and continue development!
-
----
 
 <h3 align="center"> 🌟 Questions, suggestions, or want to contribute? Open an issue or pull request on GitHub! 🌟 </h3>
 
