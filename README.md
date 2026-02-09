@@ -3,7 +3,7 @@
   <p><em>A beautiful animated silk texture background effect created with Three.js and custom GLSL shaders.</em></p>
 </div>
 
----
+<br>
 
 ## Overview
 
