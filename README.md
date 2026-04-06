@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://viratiakiranandhanreddy.github.io/animated-silk-background-three-js/">animated-silk-background-three-js</a></h1>
+  <h1><a href="https://notfoundpages.github.io/animated-silk-background-three-js/">animated-silk-background-three-js</a></h1>
   <p><em>A beautiful animated silk texture background effect created with Three.js and custom GLSL shaders.</em></p>
 </div>
 
