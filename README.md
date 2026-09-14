@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="assets/previews/desktop.png" alt="animated-silk-background-three-js" width="100%">
   <h1><a href="https://notfoundpages.github.io/animated-silk-background-three-js/">animated-silk-background-three-js</a></h1>
   <p><em>A beautiful animated silk texture background effect created with Three.js and custom GLSL shaders.</em></p>
 </div>
@@ -21,6 +22,12 @@ This project creates a smooth, flowing silk-like animation that fills the entire
   - `uNoiseIntensity`: Noise distortion strength
 - **Responsive Design**: Automatically adjusts to window resizing
 - **High Performance**: Optimized rendering with pixel ratio handling
+
+## Preview
+
+| Desktop | Mobile |
+| ------- | ------ |
+| <img src="assets/previews/desktop.png" alt="Desktop Preview" height="435"> | <img src="assets/previews/mobile.png" alt="Mobile Preview" width="191"> |
 
 ## Usage
 
